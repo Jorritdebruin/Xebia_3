@@ -1,0 +1,4 @@
+Git is great
+second line
+third line
+fourth line
